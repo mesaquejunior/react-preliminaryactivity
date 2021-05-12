@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ignite" src="https://raw.githubusercontent.com/mesaquejunior/react-atividadeprevia/main/src/assets/igti.jpg" width="200px" />
+    <img alt="IGTI" src="https://raw.githubusercontent.com/mesaquejunior/react-preliminaryactivity/main/src/assets/igti.jpg" width="200px" />
 </h1>
 
 <h3 align="center">
